@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn</a> • 
   <a href="mailto:seuemail@email.com">Email</a> • 
-  <a href="https://camargofe.github.io">Portfólio</a>
 </p>
 
 ---
