@@ -15,7 +15,11 @@
 
 ### 
 <p align="center">
-Apex • LWC • Copado • Flosum • Git
+2x Salesforce
+8x Copado
+2x Flosum
+5x GearSet
+2x Oracle
 </p>
 
 ---
