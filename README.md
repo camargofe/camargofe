@@ -13,9 +13,9 @@
 
 ---
 
-### stack
+### 
 
-Salesforce • Apex • JavaScript • Node.js • GitHub • AWS
+Salesforce Developer | Release Manager | Apex • LWC • Copado • Flosum • Git
 
 ---
 
