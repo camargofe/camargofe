@@ -1,14 +1,14 @@
 <h1 align="center">Felipe Camargo ☁️</h1>
 
 <p align="center">
-  Salesforce Developer & Release Manager<br>
+  Salesforce Developer & Release Manager At SysMap Solutions<br>
   
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cmrgofe/">LinkedIn</a> • 
   <a href="mailto:cmrgofe@gmail.com">Email</a> • 
-  <a href="https://www.salesforce.com/trailblazer/cmrgofe">Trailhead</a> •
+  <a href="https://www.salesforce.com/trailblazer/cmrgofe">Trailhead</a> 
 </p>
 
 ---
