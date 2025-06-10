@@ -18,14 +18,6 @@ Salesforce Developer | Release Manager | Apex • LWC • Copado • Flosum • 
 
 ---
 
-### projetos
-
-- [Portfólio](https://camargofe.github.io)
-- [SF Deploy Automation](https://github.com/camargofe/sf-deploy-automation)
-- [Métricas Salesforce](https://github.com/camargofe/salesforce-metrics-dashboard)
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camargofe&show_icons=false&hide_title=true&hide_border=true&theme=default" height="130">
 </p>
