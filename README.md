@@ -2,7 +2,7 @@
 
 <p align="center">
   Salesforce Developer & Release Manager<br>
-  DevOps | Automação | Open Source
+  
 </p>
 
 <p align="center">
