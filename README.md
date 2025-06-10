@@ -13,9 +13,9 @@
 ---
 
 ### 
-
+<p align="center">
 Salesforce Developer | Release Manager | Apex • LWC • Copado • Flosum • Git
-
+</p>
 ---
 
 <p align="center">
