@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn</a> • 
-  <a href="mailto:seuemail@email.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/cmrgofe/">LinkedIn</a> • 
+  <a href="mailto:cmrgofe@gmail.com">Email</a> • 
+  <a href="https://www.salesforce.com/trailblazer/cmrgofe">Trailhead</a> •
 </p>
 
 ---
