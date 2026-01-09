@@ -1,79 +1,137 @@
-# Felipe de Camargo
-> Release Manager • Salesforce Developer • DevOps Specialist
+```markdown
+<!-- README.md -->
+
+<h1 align="center">🚀 Felipe de Camargo</h1>
+<h3 align="center">Release Manager • Salesforce Developer • DevOps Specialist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cmrgofe/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://trailblazer.me/id/fecamargo" target="_blank">
-    <img alt="Trailhead" src="https://img.shields.io/badge/Trailhead-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
+  <a href="https://www.salesforce.com/trailblazer/cmrgofe" target="_blank">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   </a>
   <a href="mailto:cmrgofe@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nullsecbr" target="_blank" title="Bugbounty (nick)">
-    <img alt="Bugbounty" src="https://img.shields.io/badge/Bugbounty-nullsecbr-111827?style=flat-square&logo=hackerearth&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## Sobre
-Profissional Salesforce com foco em Release Management, automação de pipelines e governança. Trabalho com Copado, Flosum, Salesforce DX e ferramentas CI/CD para entregar releases confiáveis e repetíveis em organizações de grande porte.
+## 👨‍💻 Sobre mim
+
+Profissional Salesforce com forte atuação em **Release Management, DevOps e Desenvolvimento**, com experiência em projetos de grande porte nos setores **financeiro, telecom, indústria, agro e alimentício**.
+
+Especialista em **Copado, Flosum, Salesforce DX, GitHub, GitLab e Gearset**, com foco em **automação de pipelines, governança, escalabilidade e qualidade de entrega**.
 
 ---
 
-## Rápido (contato)
-- ✉️ cmrgofe@gmail.com  
-- 📱 (35) 9 9899‑4336  
-- 🔗 [linkedin.com/in/cmrgofe](https://www.linkedin.com/in/cmrgofe)  
-- 🧭 [trailblazer.me/id/fecamargo](https://trailblazer.me/id/fecamargo)  
-- 🐛 Bug Bounty: **nullsecbr**
+## 🧠 Core Skills
+
+### Salesforce & DevOps
+- Apex  
+- LWC  
+- Triggers  
+- Flow Builder  
+- Visualforce  
+- Salesforce DX  
+- Copado DevOps  
+- Flosum DevOps  
+
+### Release & Governança
+- Gestão de Releases  
+- Estratégia de Branching  
+- Code Coverage & Quality Gates  
+- Pull Requests & Peer Review  
+- Administração de Orgs (DEV, QA, INT, UAT, PROD)  
+- War Rooms & Incident Management  
+
+### Metodologias
+- Agile / Scrum  
+- Kanban  
+- Jira  
+- Sprint Planning & Estimativas  
 
 ---
 
-## Skills principais
-Salesforce · Apex · LWC · Triggers · SFDX  
-Copado · Flosum · Gearset · GitHub/GitLab · CI/CD  
-Branching strategies · Code coverage · Release notes · Rollback plans
+## 🏢 Experiência Profissional
+
+### **SysMap Solutions — Release Manager**
+📍 *Mar/2025 – Atual*  
+- Responsável técnico por melhorias nos projetos **BMG** e **BRF Mercado Externo**
+- Atuação direta em incidentes críticos e ambientes de sustentação
+- Suporte técnico a squads nacionais e internacionais
+- Governança DevOps, automação e padronização de processos
 
 ---
 
-## Experiência (resumo)
-- **SysMap Solutions** — Release Manager · Mar/2025 – atualmente  
-  Implementação e evolução de Copado DevOps (branches, pipelines, PRs), governança e suporte a incidentes críticos.
-
-- **Meta** — Consultor de Implementação II · Nov/2024 – Mar/2025  
-  Implementação/otimização de pipelines (Flosum/Copado), preparação de orgs e suporte cross‑team.
-
-- **Sottelli** — Release Manager · Set/2022 – Fev/2024  
-  Gestão de releases, repositórios Git e treinamento de times; projetos para clientes como EuroChem, Heringer e Yara.
+### **Meta — Consultor de Implementação II**
+📍 *Nov/2024 – Mar/2025*  
+- Implementação e evolução de **Copado DevOps**
+- Gestão de pipelines, branches e orgs
+- Suporte a integrações e classes de teste
+- Atuação em releases e war rooms
 
 ---
 
-## Certificações & Formação
-Salesforce (Associate, Administrator) · Copado (Consultant, Extension Builder, Fundamentals) · Flosum (Professional/Expert)  
-Harvard CS50x · IBM DevOps & Security · PUC (Engenharia de Software) · UNIBF (Análise e Desenvolvimento)
+### **Sottelli — Release Manager**
+📍 *Set/2022 – Fev/2024*  
+- Implementação de **Flosum DevOps**
+- Governança de repositórios Git
+- Treinamento e mentoria de times
+- Projetos para **EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC**
 
 ---
 
-## Idiomas
-Português (nativo) · Inglês (B1 — em curso)
+## 🧾 Certificações
+
+### Salesforce
+- Salesforce Associate  
+- Salesforce Administrator  
+
+### Copado / Flosum
+- Copado Consultant  
+- Copado Extension Builder  
+- Copado Fundamentals I & II (MP / SFP)  
+- Copado Robotic Testing  
+- Flosum Professional & Expert  
+
+### Tecnologia & Gestão
+- Harvard CS50x  
+- IBM DevOps & Software Engineering  
+- IBM Cybersecurity Analyst  
+- Oracle AI Foundations Associate  
+- Agile with Atlassian Jira  
 
 ---
 
-## GitHub — stats
+## 🎓 Formação
+
+- **PUC** — Engenharia de Software  
+- **UNIBF** — Análise e Desenvolvimento de Sistemas  
+
+---
+
+## 🌍 Idiomas
+- Inglês — B1 (Em andamento)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=cmrgofe&show_icons=true&theme=default&hide_border=true"/>
-  &nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmrgofe&layout=compact&theme=default&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cmrgofe&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmrgofe&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-Se quiser, eu posso:
-- Gerar uma versão com banner/avatar minimalistas no estilo Apple (light + system font) para `assets/header.png` e `assets/avatar.png`.  
-- Substituir as badges por versões ainda mais discretas (flat / mono).  
-- Incluir uma seção de projetos com 3 repositórios destacados (me envie links e 1 linha de descrição cada).  
+## ⚡ Foco Atual
+- Salesforce DevOps em escala enterprise  
+- Automação e governança de releases  
+- Arquitetura de pipelines CI/CD  
 
-Diz qual opção prefere e eu adapto. 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:4B0082&height=120&section=footer"/>
+</p>
+```
