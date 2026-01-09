@@ -62,31 +62,6 @@ Experience across **financial, telecom, industrial, agro and food sectors**, del
 
 ---
 
-## Experience
-
-**SysMap Solutions**  
-Release Manager — *Mar/2025 · Present*  
-- Technical ownership for **BMG** and **BRF Mercado Externo**
-- Critical incident handling and production stability
-- DevOps governance and pipeline standardization
-- Support for national and international squads
-
-**Meta**  
-Implementation Consultant II — *Nov/2024 · Mar/2025*  
-- Copado DevOps implementation and evolution
-- Pipeline, branch and org management
-- Integration troubleshooting and test strategy
-- Release execution and war room support
-
-**Sottelli**  
-Release Manager — *Sep/2022 · Feb/2024*  
-- Flosum DevOps implementation
-- Git repository governance
-- Team training and mentoring
-- Projects for EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC
-
----
-
 ## Certifications
 
 **Salesforce**
