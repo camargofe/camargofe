@@ -1,135 +1,139 @@
+```markdown
 <!-- README.md -->
 
-<h1 align="center">🚀 Felipe de Camargo</h1>
-<h3 align="center">Release Manager • Salesforce Developer • DevOps Specialist</h3>
+<h1 align="center">Felipe de Camargo</h1>
+<p align="center">
+  <strong>Release Manager • Salesforce Developer • DevOps</strong><br/>
+  <sub>aka <strong>nullsecbr</strong> — Bug Bounty</sub>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cmrgofe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/cmrgofe" target="_blank">
-    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trailhead-111111?style=flat&logo=salesforce&logoColor=white"/>
   </a>
   <a href="mailto:cmrgofe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://hackerone.com/nullsecbr" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-nullsecbr-111111?style=flat&logo=hackerone&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## About
 
-Profissional Salesforce com forte atuação em **Release Management, DevOps e Desenvolvimento**, com experiência em projetos de grande porte nos setores **financeiro, telecom, indústria, agro e alimentício**.
+Salesforce professional with strong focus on **Release Management, DevOps and Scalable Delivery**.  
+Hands-on experience in **enterprise environments**, high-impact releases and governance-driven pipelines.
 
-Especialista em **Copado, Flosum, Salesforce DX, GitHub, GitLab e Gearset**, com foco em **automação de pipelines, governança, escalabilidade e qualidade de entrega**.
-
----
-
-## 🧠 Core Skills
-
-### Salesforce & DevOps
-- Apex  
-- LWC  
-- Triggers  
-- Flow Builder  
-- Visualforce  
-- Salesforce DX  
-- Copado DevOps  
-- Flosum DevOps  
-
-### Release & Governança
-- Gestão de Releases  
-- Estratégia de Branching  
-- Code Coverage & Quality Gates  
-- Pull Requests & Peer Review  
-- Administração de Orgs (DEV, QA, INT, UAT, PROD)  
-- War Rooms & Incident Management  
-
-### Metodologias
-- Agile / Scrum  
-- Kanban  
-- Jira  
-- Sprint Planning & Estimativas  
+Background across **financial, telecom, industrial, agro and food sectors**, working with distributed squads and mission-critical systems.
 
 ---
 
-## 🏢 Experiência Profissional
+## Core Stack
 
-### **SysMap Solutions — Release Manager**
-📍 *Mar/2025 – Atual*  
-- Responsável técnico por melhorias nos projetos **BMG** e **BRF Mercado Externo**
-- Atuação direta em incidentes críticos e ambientes de sustentação
-- Suporte técnico a squads nacionais e internacionais
-- Governança DevOps, automação e padronização de processos
+**Salesforce**
+- Apex
+- LWC
+- Triggers
+- Flow Builder
+- Visualforce
+- Salesforce DX
+- Sales Cloud
+- Service Cloud
+- Digital Experience
 
----
+**DevOps**
+- Copado
+- Flosum
+- GitHub
+- GitLab
+- Gearset
+- CI/CD Pipelines
+- Branching Strategy
+- Code Coverage
+- Release Governance
 
-### **Meta — Consultor de Implementação II**
-📍 *Nov/2024 – Mar/2025*  
-- Implementação e evolução de **Copado DevOps**
-- Gestão de pipelines, branches e orgs
-- Suporte a integrações e classes de teste
-- Atuação em releases e war rooms
-
----
-
-### **Sottelli — Release Manager**
-📍 *Set/2022 – Fev/2024*  
-- Implementação de **Flosum DevOps**
-- Governança de repositórios Git
-- Treinamento e mentoria de times
-- Projetos para **EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC**
-
----
-
-## 🧾 Certificações
-
-### Salesforce
-- Salesforce Associate  
-- Salesforce Administrator  
-
-### Copado / Flosum
-- Copado Consultant  
-- Copado Extension Builder  
-- Copado Fundamentals I & II (MP / SFP)  
-- Copado Robotic Testing  
-- Flosum Professional & Expert  
-
-### Tecnologia & Gestão
-- Harvard CS50x  
-- IBM DevOps & Software Engineering  
-- IBM Cybersecurity Analyst  
-- Oracle AI Foundations Associate  
-- Agile with Atlassian Jira  
+**Process**
+- Agile / Scrum
+- Kanban
+- Jira
+- Sprint Planning
+- Peer Review
+- Incident & War Room Management
 
 ---
 
-## 🎓 Formação
+## Experience
 
-- **PUC** — Engenharia de Software  
-- **UNIBF** — Análise e Desenvolvimento de Sistemas  
+**SysMap Solutions** — Release Manager  
+*Mar/2025 – Present*  
+- Technical ownership of releases for **BMG** and **BRF Mercado Externo**
+- Incident response and production stability
+- DevOps standardization and pipeline optimization
+- Support for national and international squads
+
+**Meta** — Implementation Consultant II  
+*Nov/2024 – Mar/2025*  
+- Copado DevOps implementation and evolution
+- Pipeline, branch and org management
+- Integration troubleshooting and test stabilization
+- Release execution and war room support
+
+**Sottelli** — Release Manager  
+*Sep/2022 – Feb/2024*  
+- Flosum DevOps implementation
+- Git governance and documentation
+- Team training and mentoring
+- Projects for **EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC**
 
 ---
 
-## 🌍 Idiomas
-- Inglês — B1 (Em andamento)
+## Certifications
+
+**Salesforce**
+- Salesforce Associate
+- Salesforce Administrator
+
+**Copado / Flosum**
+- Copado Consultant
+- Copado Extension Builder
+- Copado Fundamentals I & II (MP / SFP)
+- Copado Robotic Testing
+- Flosum Professional
+- Flosum Expert
+
+**Technology & Management**
+- Harvard CS50x
+- IBM DevOps & Software Engineering
+- IBM Cybersecurity Analyst
+- Oracle AI Foundations Associate
+- Agile with Atlassian Jira
 
 ---
 
-## 📊 GitHub Stats
+## Education
+
+- **PUC** — Software Engineering
+- **UNIBF** — Systems Analysis & Development
+
+---
+
+## Security / Bug Bounty
+
+- HackerOne: **nullsecbr**
+- Focus on application logic, integrations, DevOps pipelines and platform abuse
+
+---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cmrgofe&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmrgofe&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cmrgofe&show_icons=true&hide_border=true&theme=graywhite"/>
 </p>
-
----
-
-## ⚡ Foco Atual
-- Salesforce DevOps em escala enterprise  
-- Automação e governança de releases  
-- Arquitetura de pipelines CI/CD  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:4B0082&height=120&section=footer"/>
+  <sub>Minimal. Reliable. Production-ready.</sub>
 </p>
+```
