@@ -1,4 +1,3 @@
-```markdown
 <!-- README.md -->
 
 <h1 align="center">Felipe de Camargo</h1>
@@ -134,4 +133,3 @@ Release Manager — *Sep/2022 · Feb/2024*
 <p align="center">
   <sub>Minimal process. Maximum reliability.</sub>
 </p>
-```
