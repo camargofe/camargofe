@@ -1,4 +1,3 @@
-```markdown
 <!-- README.md -->
 
 <h1 align="center">🚀 Felipe de Camargo</h1>
@@ -134,4 +133,3 @@ Especialista em **Copado, Flosum, Salesforce DX, GitHub, GitLab e Gearset**, com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:4B0082&height=120&section=footer"/>
 </p>
-```
