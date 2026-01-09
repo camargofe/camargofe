@@ -3,7 +3,6 @@
 <h1 align="center">Felipe de Camargo</h1>
 <p align="center">
   <strong>Release Manager • Salesforce Developer • DevOps Specialist</strong><br/>
-  <sub>Bug Bounty: <strong>nullsecbr</strong></sub>
 </p>
 
 <p align="center">
