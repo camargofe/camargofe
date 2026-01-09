@@ -3,22 +3,22 @@
 
 <h1 align="center">Felipe de Camargo</h1>
 <p align="center">
-  <strong>Release Manager • Salesforce Developer • DevOps</strong><br/>
-  <sub>aka <strong>nullsecbr</strong> — Bug Bounty</sub>
+  <strong>Release Manager • Salesforce Developer • DevOps Specialist</strong><br/>
+  <sub>Bug Bounty: <strong>nullsecbr</strong></sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cmrgofe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.salesforce.com/trailblazer/cmrgofe" target="_blank">
-    <img src="https://img.shields.io/badge/Trailhead-111111?style=flat&logo=salesforce&logoColor=white"/>
-  </a>
-  <a href="mailto:cmrgofe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Trailhead-000000?style=flat-square&logo=salesforce&logoColor=white"/>
   </a>
   <a href="https://hackerone.com/nullsecbr" target="_blank">
-    <img src="https://img.shields.io/badge/HackerOne-nullsecbr-111111?style=flat&logo=hackerone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerOne-nullsecbr-000000?style=flat-square&logo=hackerone&logoColor=white"/>
+  </a>
+  <a href="mailto:cmrgofe@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -26,10 +26,9 @@
 
 ## About
 
-Salesforce professional with strong focus on **Release Management, DevOps and Scalable Delivery**.  
-Hands-on experience in **enterprise environments**, high-impact releases and governance-driven pipelines.
+Salesforce professional with strong focus on **Release Management, DevOps and Development**, working in **enterprise-scale environments** with high availability and governance requirements.
 
-Background across **financial, telecom, industrial, agro and food sectors**, working with distributed squads and mission-critical systems.
+Experience across **financial, telecom, industrial, agro and food sectors**, delivering scalable solutions with reliability, automation and process maturity.
 
 ---
 
@@ -41,7 +40,6 @@ Background across **financial, telecom, industrial, agro and food sectors**, wor
 - Triggers
 - Flow Builder
 - Visualforce
-- Salesforce DX
 - Sales Cloud
 - Service Cloud
 - Digital Experience
@@ -49,9 +47,8 @@ Background across **financial, telecom, industrial, agro and food sectors**, wor
 **DevOps**
 - Copado
 - Flosum
-- GitHub
-- GitLab
-- Gearset
+- Salesforce DX
+- GitHub / GitLab
 - CI/CD Pipelines
 - Branching Strategy
 - Code Coverage
@@ -61,7 +58,6 @@ Background across **financial, telecom, industrial, agro and food sectors**, wor
 - Agile / Scrum
 - Kanban
 - Jira
-- Sprint Planning
 - Peer Review
 - Incident & War Room Management
 
@@ -69,26 +65,26 @@ Background across **financial, telecom, industrial, agro and food sectors**, wor
 
 ## Experience
 
-**SysMap Solutions** — Release Manager  
-*Mar/2025 – Present*  
-- Technical ownership of releases for **BMG** and **BRF Mercado Externo**
-- Incident response and production stability
-- DevOps standardization and pipeline optimization
+**SysMap Solutions**  
+Release Manager — *Mar/2025 · Present*  
+- Technical ownership for **BMG** and **BRF Mercado Externo**
+- Critical incident handling and production stability
+- DevOps governance and pipeline standardization
 - Support for national and international squads
 
-**Meta** — Implementation Consultant II  
-*Nov/2024 – Mar/2025*  
+**Meta**  
+Implementation Consultant II — *Nov/2024 · Mar/2025*  
 - Copado DevOps implementation and evolution
 - Pipeline, branch and org management
-- Integration troubleshooting and test stabilization
+- Integration troubleshooting and test strategy
 - Release execution and war room support
 
-**Sottelli** — Release Manager  
-*Sep/2022 – Feb/2024*  
+**Sottelli**  
+Release Manager — *Sep/2022 · Feb/2024*  
 - Flosum DevOps implementation
-- Git governance and documentation
+- Git repository governance
 - Team training and mentoring
-- Projects for **EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC**
+- Projects for EuroChem, Heringer, Fini, Elgin, Yara, Banco ABC
 
 ---
 
@@ -117,23 +113,25 @@ Background across **financial, telecom, industrial, agro and food sectors**, wor
 
 ## Education
 
-- **PUC** — Software Engineering
-- **UNIBF** — Systems Analysis & Development
+- **PUC** — Software Engineering  
+- **UNIBF** — Systems Analysis & Development  
 
 ---
 
-## Security / Bug Bounty
-
-- HackerOne: **nullsecbr**
-- Focus on application logic, integrations, DevOps pipelines and platform abuse
+## Languages
+- English — B1 (In Progress)
 
 ---
+
+## GitHub
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cmrgofe&show_icons=true&hide_border=true&theme=graywhite"/>
 </p>
 
+---
+
 <p align="center">
-  <sub>Minimal. Reliable. Production-ready.</sub>
+  <sub>Minimal process. Maximum reliability.</sub>
 </p>
 ```
